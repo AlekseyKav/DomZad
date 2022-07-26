@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\bin\Debug\net6.0\08JUL22_Task_03.exe
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\bin\Debug\net6.0\08JUL22_Task_03.deps.json
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\bin\Debug\net6.0\08JUL22_Task_03.runtimeconfig.json
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\bin\Debug\net6.0\08JUL22_Task_03.dll
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\bin\Debug\net6.0\08JUL22_Task_03.pdb
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.AssemblyInfo.cs
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.dll
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\refint\08JUL22_Task_03.dll
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.pdb
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\08JUL22_Task_03.genruntimeconfig.cache
+C:\Users\asus\Desktop\Domahka-main\DZ_08jul22\08JUL22_Task_03\obj\Debug\net6.0\ref\08JUL22_Task_03.dll
