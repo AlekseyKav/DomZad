@@ -5,7 +5,6 @@
 
 Console.WriteLine($"Введите размер грани 3D массива:");
 int l = int.Parse(Console.ReadLine());
-
 int[,,] array3D = new int[l, l, l];
 CreateArray(array3D);
 WriteArray(array3D);
